@@ -1906,6 +1906,8 @@ spec:
               lastSynced:
                 format: int64
                 type: integer
+              migrated:
+                type: boolean
               stage:
                 type: string
               stageStatus:
